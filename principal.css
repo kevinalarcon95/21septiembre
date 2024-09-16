@@ -35,7 +35,7 @@ h2 {
     box-shadow: 2px 2px 10px rgba(252, 251, 251, 0.4);
 }
 
-.btn:hover {
+.btn:hover, .btn:focus {
     background-color: #ff6699;
 }
 
