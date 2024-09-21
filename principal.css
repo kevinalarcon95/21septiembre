@@ -47,6 +47,10 @@ p{
     font-family: 'Times New Roman', Times, serif;
 }
 
+p:nth-of-type(5){
+    margin-bottom: 1px !important;
+}
+
 .btn {
     font-size: 8vw; 
     border: none;
